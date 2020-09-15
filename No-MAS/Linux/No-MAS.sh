@@ -9,7 +9,7 @@ cp hosts ~/Original-DNS-Files && cp resolv.conf ~/Original-DNS-Files
 
 #Changing hosts file to block websites...
 rm /etc/hosts && rm /etc/resolv.conf 
-cd ~/No-MAS-Block-Pornography-on-any-PC-/etc
+cd ~/No-MAS/etc
 cp hosts /etc
 
 
