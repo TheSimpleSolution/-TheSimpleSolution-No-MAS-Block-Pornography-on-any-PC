@@ -23,7 +23,7 @@ CD C:\Windows\System32\drivers\etc
 COPY hosts c:\Users\Public\Desktop\OriginalFile
 DELETE hosts
 CD 
-CD c:\Users\Public\Desktop\No-MAS-Block-Pornography-on-any-PC-master\etc
+CD c:\Users\Public\Desktop\No-MAS\etc
 COPY hosts C:\Windows\System32\drivers\etc
 ipconfig /flushdns
 
