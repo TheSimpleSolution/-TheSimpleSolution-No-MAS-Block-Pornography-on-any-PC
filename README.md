@@ -1,5 +1,3 @@
-# -TheSimpleSolution-No-MAS-Block-Pornography-on-any-PC
-
 #NO-MAS Block Porn on your computer 
 ---------
 NO-MAS Is a Unix script designed to block Access to Adult Industry Websites Utilizing /etc/hosts & /etc/resolv.conf files .
