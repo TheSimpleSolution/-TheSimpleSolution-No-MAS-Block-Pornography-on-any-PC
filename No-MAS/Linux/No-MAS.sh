@@ -8,8 +8,8 @@ mkdir Original-DNS-Files && cd /etc
 cp hosts ~/Original-DNS-Files && cp resolv.conf ~/Original-DNS-Files
 
 #Changing hosts file to block websites...
-rm /etc/hosts && rm /etc/resolv.conf 
-cd ~/No-MAS/etc
+rm hosts && rm resolv.conf 
+cd ~/No-MAS/No-MAS/etc
 cp hosts /etc
 
 
