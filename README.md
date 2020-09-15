@@ -16,7 +16,7 @@ Original Network Files will be at ~/DNS-Files In case the script does not work
 
 1. cd ~/ 
 2. git clone https://github.com/TheSimpleSolution/No-MAS/
-3. cd No-MAS
+3. cd No-MAS/Linux
 3. chmod +x No-MAS.sh
 4. ./No-MAS
 
@@ -27,7 +27,7 @@ Original Network Files will be at ~/DNS-Files In case the script does not work
 1.  Download the zip file from the top right button
 2.  Extract the contents of the folder using a file extractor like 7zip/winrar
 3.  Copy the No-MAS Folder Into the Desktop . from the No-MAS-Master folder after extracting.
-3.  Go into the No-MAS Folder At Desktop.
+3.  Go into the No-MAS Folder At Desktop Then Windows.
 4.  Press Windows + x.
 5.  Choose Windows PowerShell (Admin).
 6.  Drag the NO-MAS.bat file into PowerShell (Admin)
